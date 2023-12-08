@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FirstApp should match snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+    Hello world!
+  </h1>
+  <h2
+    data-testid="test-subtitle"
+  >
+     
+    No hay subtitulo
+     
+  </h2>
+  <p>
+    Fernando
+  </p>
+  <p>
+    Checa esta lista:
+  </p>
+  <ul>
+    <li>
+       
+      Javier
+       
+    </li>
+    <li>
+       
+      Maribel
+       
+    </li>
+    <li>
+       
+      Chofis
+       
+    </li>
+    <li>
+       
+      Wero
+       
+    </li>
+  </ul>
+</div>
+`;
